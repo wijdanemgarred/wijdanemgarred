@@ -1,5 +1,5 @@
 👋 Hi, I’m @wijdanemgarred
-🎓 Final-year Software Engineering Student @ UIR | 🌟 Passionate about Web & Mobile Development
+🎓 Final-year Software Engineering Student @ UIR 
 🚀 Building innovative solutions with Flutter, Angular, and Spring Boot
 🖥️ Exploring the intersection of IoT and Software Development
 🌱 Constantly learning and growing through new challenges
